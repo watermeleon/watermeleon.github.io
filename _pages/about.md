@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 I am a Master's student in Artificial Intelligence at the University of Amsterdam.
 
 
-Currently mostly interested in AI interpretability of Large Language Models. For my Master thesis I investigted Knowledge Injection on Transformers for image captioning. Moreover, I am also intruiged by real world applications of AI and robotics and recently finished a robotic quadrupled project (<a href="{{ '/projects/' | relative_url }}">see projects)</a>
+Currently mostly interested in AI interpretability of Large Language Models. For my Master's thesis, I investigated Knowledge Injection on Transformers for image captioning. Moreover, I am also intrigued by real-world applications of AI and robotics and recently finished a robotic quadrupled project (<a href="{{ '/projects/' | relative_url }}">see projects)</a>
 
 I am passionate about state-of-the-art AI models and dissecting them to better understand and leverage their capabilities. My goal is to apply Artificial Intelligence to tackle the world's biggest problems.
 
