@@ -16,6 +16,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 resume : true
 social: true  # includes social icons at the bottom of the page
+use_projects: true
 ---
 
 I am a PhD student at the <a href='http://www.cltl.nl/'>Computational Linguistics and Text Mining Lab (CLTL)</a> at the <a href='https://vu.nl'>Vrije Universiteit Amsterdam</a>. My research is focused on Reinforcement Learning for Natural Language Processing and is part of the <a href='https://www.hybrid-intelligence-centre.nl/'>Hybrid Intelligence Center</a>.
