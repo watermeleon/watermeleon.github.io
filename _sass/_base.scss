@@ -491,8 +491,6 @@ footer.sticky-bottom {
       // width: 80%;
       // width: 70%;
       height: 14vh; // 15% of viewport height
-      // height: 200px; // Set a fixed height instead of width
-      // height: 80%; // Set a fixed height instead of width
       width: auto; // Let width adjust automatically to maintain aspect ratio
       max-width: 90%; // Prevent image from exceeding container width
       object-fit: contain; // Keep entire image visible, fill with white space if needed
@@ -526,6 +524,7 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
   }
+  margin-top: 2rem;
 }
 
 .sacgif {
