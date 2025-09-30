@@ -1,9 +1,9 @@
 ---
 layout: page
 title: SpotMicroAI:Learning-based gait modulation
-description: 
+description: Evaluationg sim-to-real transfer of simulation RL agents trained for gait modulations on a real world robot dog (Jake). Jake is build via 3D printing (personnally and with external help) and hobby electronics. 
 img: assets/img/JakeSide_contrast.jpg
-importance: 1
+importance: 2
 category: work
 ---
 

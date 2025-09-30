@@ -3,7 +3,7 @@ layout: page
 title: Paper Replication:Towards Visually Explaining Variational Autoencoders
 description: 
 img: assets/img/nuts.jpg
-importance: 3
+importance: 7
 category: work
 ---
 
